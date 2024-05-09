@@ -49,4 +49,4 @@ app.listen(port, () => {
   console.log(`Server is running on port: ${port}`);
 });
 
-// console.log(process.env.NODE_ENV.toUpperCase());
+console.log(process.env.NODE_ENV.toUpperCase());
